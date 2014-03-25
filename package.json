@@ -42,7 +42,7 @@
     "nodebb-theme-vanilla": "~0.0.13",
     "nodebb-theme-cerulean": "~0.0.12",
     "nodebb-theme-lavender": "~0.0",
-    "cron": "~1.0.1",
+    "cron": "~1.0.4",
     "semver": "~2.2.1",
     "string": "~1.7.0",
     "xregexp": "~2.0.0",
