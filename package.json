@@ -49,7 +49,8 @@
     "socket.io-wildcard": "~0.1.1",
     "bcryptjs": "~0.7.10",
     "nodebb-plugin-desktop-notifications": "0.0.6",
-    "nodebb-plugin-emailer-mandrill": "0.0.3"
+    "nodebb-plugin-emailer-mandrill": "0.0.3",
+    "nodebb-plugin-jira": "~1.0.0"
   },
   "optionalDependencies": {
     "redis": "0.8.3",
