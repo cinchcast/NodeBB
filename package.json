@@ -51,7 +51,8 @@
     "nodebb-plugin-desktop-notifications": "0.0.6",
     "nodebb-plugin-emailer-mandrill": "0.0.3",
     "nodebb-plugin-jira": "~1.0.3",
-    "nodetime": "^0.8.15"
+    "nodetime": "^0.8.15",
+    "nodebb-plugin-s3-uploads": "^0.2.0"
   },
   "optionalDependencies": {
     "redis": "0.8.3",
